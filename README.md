@@ -51,9 +51,7 @@ Remember to store your API keys and sensitive information securely in the `.env`
 
 ---
 
-## 📬 Author
 
-Developed by [Your Name]
 
 ---
 
