@@ -9,7 +9,7 @@ This repository is a collection of Python mini-projects focused on using APIs an
 
 ## 📁 Project Structure
 
-```
+
 
 API\_AND\_MESSAGING\_PYTHON/
 │
@@ -37,7 +37,7 @@ API\_AND\_MESSAGING\_PYTHON/
 └── Rain\_alert/
 └── main.py
 
-````
+
 
 ---
 
